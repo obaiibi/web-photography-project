@@ -86,7 +86,7 @@ nav a:hover{
 
 .hero-text{
 
-    background:rgba(169, 25, 25, 0.5);
+    background:rgba(9, 9, 9, 0.5);
 
     padding:40px;
 
@@ -219,5 +219,33 @@ transition:.4s;
 .photos img:hover{
 
 transform:scale(1.05);
+
+}
+
+.why{
+
+padding:80px;
+
+text-align:center;
+
+background:#111;
+
+}
+
+.why h2{
+
+color:gold;
+
+margin-bottom:20px;
+
+font-size:40px;
+
+}
+
+.why p{
+
+font-size:20px;
+
+line-height:1.8;
 
 }

@@ -11,12 +11,10 @@ HTML
 CSS
 
 ## Setup
+My Repository:
 
-Clone the repository
+ https://github.com/obaiibi/photography-portfolio.git
 
-git clone https://github.com/obaiibi/photography-portfolio.git
-
-Open index.html in your browser.
 
 ## Live Site
 

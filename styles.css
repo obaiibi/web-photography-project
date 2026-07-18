@@ -68,7 +68,7 @@ nav a:hover{
 
     height:90vh;
 
-    background:url(images/hero.jpg);
+    background:url(images/background.jpg) no-repeat;
 
     background-size:cover;
 
@@ -86,7 +86,7 @@ nav a:hover{
 
 .hero-text{
 
-    background:rgba(0,0,0,.5);
+    background:rgba(169, 25, 25, 0.5);
 
     padding:40px;
 

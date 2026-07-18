@@ -171,3 +171,53 @@ line-height:1.8;
 font-size:18px;
 
 }
+
+.gallery{
+
+padding:80px;
+
+background:white;
+
+color:black;
+
+text-align:center;
+
+}
+
+.gallery h2{
+
+margin-bottom:40px;
+
+font-size:40px;
+
+}
+
+.photos{
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:25px;
+
+}
+
+.photos img{
+
+width:100%;
+
+height:250px;
+
+object-fit:cover;
+
+border-radius:10px;
+
+transition:.4s;
+
+}
+
+.photos img:hover{
+
+transform:scale(1.05);
+
+}

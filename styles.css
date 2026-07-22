@@ -86,7 +86,7 @@ nav a:hover {
   font-size: 20px;
 }
 
-.hero button {
+.hero button,#btn {
   padding: 15px 35px;
 
   background: gold;
@@ -100,10 +100,13 @@ nav a:hover {
   cursor: pointer;
 }
 
-.hero button:hover {
+.hero button:hover,#btn:hover {
   background: white;
 }
-
+#btn {
+  text-decoration: none;
+  color: black;
+}
 .about {
   display: flex;
 
